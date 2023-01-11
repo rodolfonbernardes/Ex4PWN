@@ -13,7 +13,7 @@
     "express-session": "^1.16.1",
     "hbs": "~4.0.4",
     "http-errors": "~1.6.3",
-    "knex": "^0.16.5",
+    "knex": "^2.4.0",
     "morgan": "~1.9.1",
     "passport": "^0.4.0",
     "passport-github": "^1.1.0"
